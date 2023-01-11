@@ -1,4 +1,4 @@
-# 💫 Hello! My name is Stephan Havermans:
+# Hello! My name is Stephan Havermans:
 I am a second year MSc. student in Cyber Security with a background in Data Science (MSc. Applied Data Science) and Bioinformatics (BSc. Biology).<br><br>Currently my main interests lie in Information Security, Machine Learning and Software Engineering.
 
 
