@@ -1,5 +1,5 @@
 # Hello! My name is Stephan Havermans:
-I am a PhD student in Spacecraft Security at IMDEA Software Institute. I completed a double-degree MSc. in Cyber Security through EIT Digitial (University of Turku, Finland & University of Trento, Italy) last year after doing a MSc. Applied Data Science and BSc. Biology at Utrecht University.<br><br>Currently my main interests lie in Information Security, Software Engineering and Machine Learning. Additionally, I have a particular interest in and affinity with the space industry.
+I am a PhD student in Spacecraft Security at IMDEA Software Institute. I completed a double-degree MSc. in Cyber Security through EIT Digitial (University of Turku, Finland & University of Trento, Italy) last year after doing a MSc. Applied Data Science and BSc. Biology at Utrecht University.<br><br>Currently my main interests lie within the field of Information Security (InfoSec). Additionally, I have a particular interest in and affinity with the space industry.
 
 
 ## 🌐 Socials:
