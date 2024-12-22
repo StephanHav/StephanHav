@@ -4,7 +4,7 @@ I am a PhD student in Spacecraft Security at IMDEA Software Institute. My main i
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephan-havermans) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/StephanHav) 
 
-# ![Shield](https://img.shields.io/badge/Security%20Impact-%230077B5?style=for-the-badge&logo=shield&logoColor=white) Security Impact
+# 🛡️ Security Impact
 - ![CVE-2024-10455](https://www.cve.org/CVERecord?id=CVE-2024-10455)
 - ![CVE-2024-12107](https://www.cve.org/CVERecord?id=CVE-2024-12107)
 - ![CVE-2024-54129](https://www.cve.org/CVERecord?id=CVE-2024-54129)
