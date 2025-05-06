@@ -1,5 +1,5 @@
 # Hello! My name is Stephan Havermans:
-I am a PhD student in Spacecraft Security at IMDEA Software Institute. My main interest is in security research, with a focus on fuzzing, network security and the space industry.
+I am a PhD student in Space System Security at IMDEA Software Institute. My main interest is in security research, with a focus on fuzzing, network security and the space industry.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephan-havermans) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/StephanHav) 
