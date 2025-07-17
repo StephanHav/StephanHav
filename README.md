@@ -9,6 +9,15 @@ I am a PhD student in Space System Security at IMDEA Software Institute. My main
 - [CVE-2024-12107](https://www.cve.org/CVERecord?id=CVE-2024-12107): Double-free in µD3TN Bundle Protocol v7
 - [CVE-2024-54129](https://www.cve.org/CVERecord?id=CVE-2024-54129): Improper Initialization in NASA's ION-DTN Bundle Protocol v7
 - [CVE-2024-54130](https://www.cve.org/CVERecord?id=CVE-2024-54130): NULL Pointer Dereference in NASA's ION-DTN Bundle Protocol v7
+- Heap-based Buffer Overflow in NASA HDTN
+- Use of Unitialised Variable in NASA HDTN
+- Uncontrolled Memory Allocation in NASA HDTN
+- Out-of-bounds Read in NASA's ION-DTN Bundle Protocol v6
+- Improper Input Validation leads to DoS in NASA's ION-DTN Bundle Protocol v6
+- Out-of-bounds Read #2 in NASA's ION-DTN Bundle Protocol v6
+- Uncaught Exception leading to DoS in LibreCube python-spacepacket [#Fixed](https://gitlab.com/librecube/lib/python-spacepacket/-/issues/1)
+
+**All issues were privately reported to the affected maintainers in accordance with responsible-disclosure guidelines before publication here.*
 
 
 ## 💻 Tech Stack:
