@@ -5,10 +5,11 @@ I am a PhD student in Space System Security at IMDEA Software Institute. My main
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephan-havermans) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/StephanHav) 
 
 ## 🛡️ Security Impact
-- [CVE-2024-10455](https://www.cve.org/CVERecord?id=CVE-2024-10455): Reachable Assertion in µD3TN Bundle Protocol v7
-- [CVE-2024-12107](https://www.cve.org/CVERecord?id=CVE-2024-12107): Double-free in µD3TN Bundle Protocol v7
+- [CVE-2025-8183](https://www.cve.org/CVERecord?id=CVE-2025-8183): NULL Pointer Dereference in µD3TN Bundle Protocol v7
 - [CVE-2024-54129](https://www.cve.org/CVERecord?id=CVE-2024-54129): Improper Initialization in NASA's ION-DTN Bundle Protocol v7
 - [CVE-2024-54130](https://www.cve.org/CVERecord?id=CVE-2024-54130): NULL Pointer Dereference in NASA's ION-DTN Bundle Protocol v7
+- [CVE-2024-10455](https://www.cve.org/CVERecord?id=CVE-2024-10455): Reachable Assertion in µD3TN Bundle Protocol v7
+- [CVE-2024-12107](https://www.cve.org/CVERecord?id=CVE-2024-12107): Double-free in µD3TN Bundle Protocol v7
 - Heap-based Buffer Overflow in NASA HDTN
 - Use of Unitialised Variable in NASA HDTN
 - Uncontrolled Memory Allocation in NASA HDTN
