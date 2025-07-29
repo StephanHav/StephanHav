@@ -18,7 +18,7 @@ I am a PhD student in Space System Security at IMDEA Software Institute. My main
 - Out-of-bounds Read #2 in NASA's ION-DTN Bundle Protocol v6
 - Uncaught Exception leading to DoS in LibreCube python-spacepacket [#Fixed](https://gitlab.com/librecube/lib/python-spacepacket/-/issues/1)
 
-**All issues were privately reported to the affected maintainers in accordance with responsible-disclosure guidelines before publication here.*
+**All issues were privately reported to the affected maintainers in accordance with responsible-disclosure guidelines.*
 
 
 ## 💻 Tech Stack:
