@@ -5,6 +5,7 @@ I am a PhD student in Space System Security at IMDEA Software Institute. My main
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephan-havermans) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/StephanHav) 
 
 ## 🛡️ Security Impact
+- [CVE-2025-61910](https://github.com/nasa-jpl/ION-DTN/security/advisories/GHSA-xm96-38vj-h28h): Uncontrolled Memory Allocation in NASA's ION-DTN Bundle Protocol v7
 - [CVE-2025-54878](https://github.com/nasa/CryptoLib/security/advisories/GHSA-9qph-pxfm-q9g4): Heap-based Buffer Overflow in NASA CryptoLib
 - [CVE-2025-8183](https://www.cve.org/CVERecord?id=CVE-2025-8183): NULL Pointer Dereference in µD3TN Bundle Protocol v7
 - [CVE-2024-54129](https://www.cve.org/CVERecord?id=CVE-2024-54129): Improper Initialization in NASA's ION-DTN Bundle Protocol v7
