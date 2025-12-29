@@ -22,6 +22,15 @@ I am a PhD student in Systems Security at IMDEA Software Institute. My main inte
 
 **All issues were privately reported to the affected maintainers in accordance with responsible-disclosure guidelines.*
 
+## 💸 Bug Bounties
+
+**HackerOne:** [sahave](https://hackerone.com/sahave)
+
+| Program       | Issue Type              | Reward |
+|--------------|-------------------------|--------|
+| LaunchDarkly | Out-of-bounds read      | $1,250 |
+| LaunchDarkly | Remote DoS              | $150   |
+
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
